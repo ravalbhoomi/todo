@@ -1,0 +1,35 @@
+.app{
+    background-color: teal;
+}
+.button{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    border: 15;
+    background-color: #008080; 
+    cursor: pointer;
+    color: white;
+  }
+  .label{
+    color: red;
+  }
+  
+  
+  .field{
+    background-color: lightcyan;
+    border: 0; 
+    color:black;
+    width: 160px;
+    height: 30px;
+    margin: 10px;
+    padding: 0 20px;
+    font-size: 14px;
+    border-radius: 5px;
+  }
+  
+  .required{
+    color: red;
+  }
+  .emailcolor{
+    color: white;
+  }
